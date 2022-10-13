@@ -1,0 +1,15 @@
+body {
+  text-align: center;
+  background-color: #d9b083;
+}
+img {
+  display: block;
+  width: 1000px;
+  margin: 0 auto;
+  margin-bottom: 20px;
+  border-radius: 10px;
+}
+.navigation {
+  margin: 0 10px;
+  color: #330d05;
+}
